@@ -33,5 +33,6 @@ Python, yfinance, NumPy, pandas, matplotlib
 
 ---
 
-[View notebook](./geopolitical-risk-var.ipynb)
+[View notebook](./geopolitical-risk-var.ipynb)     
+
 [View pdf](geopolitical-risk-var/Gestão_Risco_VaR_Portifólio_Commodities_B3.pdf)
